@@ -1,0 +1,1 @@
+(smex :repo "ofosos/org-epub" :fetcher github)
